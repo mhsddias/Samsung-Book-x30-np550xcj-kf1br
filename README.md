@@ -2,7 +2,7 @@
 ### EFI OC HACKINTOSH VENTURA
 EFI Baseado no Opencore 0.8.7
 
-## --OBSERVAÇÕES IMPORTANTES--
+## OBSERVAÇÕES IMPORTANTES
 
 * Baixe a imagem do "Ventura 13.1 with EFI folder for chipset series 300, 400 and 500" no site Olarila:
 https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos-installer/
@@ -17,7 +17,7 @@ https://www.balena.io/etcher/
 * Após instalação substitua a EFI do pendrive pela aqui baixada usando o ESP mounter pro, encontrado na imagem baixada no site olarila e gravado no pendrive ou pelo próprio site olarila.
 https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip
 
-## --BUGS CORRIGIDOS--
+## BUGS CORRIGIDOS
 
 * Adicionado patch para correção de vídeo e áudio, Intel UHD Graphics com HDMI e ajuste de iluminação de tela no notebook e Audio Realtek ALC256 Layout-ID: 11
 
@@ -26,7 +26,7 @@ https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip
 * Adicionado Kext de Audio, Video, Wifi, Bluetooth, Leitor de Cartões, Mapeamento USB, Icone de Bateria e Teclado.
 
 
-## --BUGS NÃO CORRIGIDOS E CONHECIDOS--
+## BUGS NÃO CORRIGIDOS E CONHECIDOS
 
 * Audio, bug ao iniciar Windows e voltar para o MacOS, para de funcionar, necessário desligar e ligar novamente para voltar.
 Opção de reinciar não resolve, tem que desligar e ligar novamente.
@@ -35,6 +35,6 @@ Opção de reinciar não resolve, tem que desligar e ligar novamente.
 
 * Vídeo com apenas 2gb Vram, quando o correto é 4gb Vram.
 
-## --BUG RARO--
+## BUG RARO
 
 * Caso o notebook fique com tela preta e não apareça nada na tela, mesmo após o deligamento manual forçado do notebook, segurando o botão de ligar por 10 segundos, deverá descarregar totalmente o notebook para ligar novamente.
