@@ -28,8 +28,13 @@ https://www.olarila.com/files/Utils/ESP%20Mounter%20Pro.app_v1.9.1.zip
 
 ## --BUGS NÃO CORRIGIDOS E CONHECIDOS--
 
-* Audio bug ao iniciar Windows e voltar para o MacOS, para de funcionar, necessário desligar e ligar novamente para voltar.
+* Audio, bug ao iniciar Windows e voltar para o MacOS, para de funcionar, necessário desligar e ligar novamente para voltar.
+Opção de reinciar não resolve, tem que desligar e ligar novamente.
 
 * Trackpad não funcionando, problemas no I2C e GPIO, ou kexts, solução usar Mouse USB.
 
 * Vídeo com apenas 2gb Vram, quando o correto é 4gb Vram.
+
+## --BUG RARO--
+
+* Caso o notebook fique com tela preta e não apareça nada na tela, mesmo após o deligamento manual forçado do notebook, segurando o botão de ligar por 10 segundos, deverá descarregar totalmente o notebook para ligar novamente.
