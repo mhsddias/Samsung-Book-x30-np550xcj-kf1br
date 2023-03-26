@@ -65,6 +65,8 @@ NOTE: This version of ocvalidate is only compatible with OpenCore version 0.9.0!
 
 Completed validating /Volumes/EFI/EFI/OC/config.plist in 6 ms. No issues found.
 
+7.- Use o "hackintool" no icone Power, para corrigir a hibernação, clique na chave de fenda embaixo, digite a senha e confirme. Agora clique na guia "Utilities" pode estar nas setas a Direita escondido ou maximize para ver, localize agora o icone da casa e Disable Gatekeeper digite a senha e pronto pra uso! 
+
 
 ## BUGS CORRIGIDOS
 
@@ -102,7 +104,7 @@ Completed validating /Volumes/EFI/EFI/OC/config.plist in 6 ms. No issues found.
 - [Steve Zheng](https://github.com/stevezhengshiqi) Kext
 - [Avery Black](https://github.com/1Revenger1) Kext
 - [Joshua Wise](https://github.com/jwise) Kext
-- [benbaker76](https://github.com/benbaker76) Kext
+- [benbaker76](https://github.com/benbaker76) Hackintool and Kext
 - [FireWolf](https://github.com/0xFireWolf) Kext
 - [Laura Müller](https://github.com/Mieze) Kext
 - [CorpNewt](https://github.com/corpnewt) GenSMBIOS, USBmap, Kext, and Others
