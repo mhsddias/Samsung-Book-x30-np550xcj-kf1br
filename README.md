@@ -109,6 +109,7 @@ Completed validating /Volumes/EFI/EFI/OC/config.plist in 6 ms. No issues found.
 - [VoodooI2C](https://github.com/VoodooI2C) Kext
 - [VoodooSMBus](https://github.com/VoodooSMBus) Kext
 - [johnlimabravo](https://github.com/johnlimabravo) Kext
-- [Gabriel Luchina](https://github.com/luchina-gabriel) Videos no Youtube, https://www.youtube.com/c/GabrielLuchina
+- [Gabriel Luchina](https://github.com/luchina-gabriel) Videos no Youtube, https://www.youtube.com/c/GabrielLuchina Ensinando a criar hackintoshs
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) Instruções para configurações e criações de SSDT, DSDT, e escolha de drivers e Kexts
 
 
