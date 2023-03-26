@@ -4,7 +4,7 @@
 ## Instalação Online (Necessário Cabo de Rede ligado a internet)
 
 
-* ### Baixando a Imagem do MacOS, para Instalação Online
+### Baixando a Imagem do MacOS, para Instalação Online
 
 1.- Tenha o "PYTHON" instalado no seu windows, linux ou mac, para executar o "Macrecovery" e baixar os arquivos de instalação online do MacOS Ventura. Necessário cabo de rede conectado a internet!
 
@@ -18,7 +18,7 @@
   Partição "EFI" /EFI/BOOT e /EFI/OC
 
 
-* ### Particionando o HD, SSD ou NVME
+## Particionando o HD, SSD ou NVME
 
 2. Use um linux para particionar corretamente seu HD, SSD ou NVME. (Recomendo Fedora 38) (Usei o "Gnome Disk Utility" para particionar)
   
@@ -32,7 +32,7 @@
   Faça backup antes de qualquer formatação!
 
 
-* ### Instalando outros sistemas operacionais
+## Instalando outros sistemas operacionais
 
 3.- Todos os sitemas operacionais devem ser instalados nessa ordem para dar certo, Windows o primeiro, Linux o segundo e o MacOS por último. Mas o particionamento do HD deve ser antes de quaisquer instalação, criando antes de tudo a partição EFI fucionar corretamente com os arquivos de instalção. Veja o ponto 2. para fazer o particionamento correto.
 Lembre, faça backup antes de qualquer formatação! poderá também redimencionar uma partição para criar outra, poderá ser para o Mac ou para fazer o Backup!
