@@ -9,7 +9,7 @@
 1.- Tenha o "PYTHON" instalado no seu windows, linux ou mac, para executar o "Macrecovery" e baixar os arquivos de instalação online do MacOS Ventura. Necessário cabo de rede conectado a internet!
 
   1.1- Execute o comando para baixar
-  py macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 -os latest download
+  "py macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 -os latest download"
   esse poderá variar caso tenha versões mais recentes do MacOS use o arquivo recovery_urls.txt para saber mais.
 
   1.2- Ao fazer o Download corretamente terá uma pasta com o nome baixar "com.apple.recovery.boot" que deverá ser copiada para a raíz da sua partição como nome EFI, detalhes de como criar essa partição no ponto 2.
